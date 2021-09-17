@@ -12,10 +12,7 @@ My blog: [Portfolio](https://verianalisti.blogspot.com/)
 
 
 **📫 Where to find me:** 
-
-[![Linkedin Badge](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>)
-<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammet-ali-kula-volunteerfromistanbul" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/muhammet-ali-kula-volunteerfromistanbul?trk=profile-badge">Muhammet Ali Kula</a></div>
-              
+  
 [![Gmail Badge](https://img.shields.io/badge/-alikula3.14-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alikula3.14@gmail.com)](mailto:alikula3.14@gmail.com)
 
 
