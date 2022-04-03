@@ -16,7 +16,7 @@ My blog: [Portfolio](https://verianalisti.blogspot.com/)
 [![Gmail Badge](https://img.shields.io/badge/-alikula3.14-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alikula3.14@gmail.com)](mailto:alikula3.14@gmail.com)
 
 
-**💼 Currently working as:** Core Member at <a href="https://globalaihub.com/home/" target="_blank"><b>Global Ai Hub</b></a>
+**💼 Currently working as:** Community Leader at <a href="https://globalaihub.com/home/" target="_blank"><b>Global Ai Hub</b></a>
 
 **👨🏻‍💻 Currently working on:** 
 
